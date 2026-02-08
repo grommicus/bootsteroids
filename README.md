@@ -1,0 +1,1 @@
+This was made with the guidance of the boot.dev course, however I will be semi-actively trying to add and improve features to make it my own and to improve my skills with both python and pygame.
